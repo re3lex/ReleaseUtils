@@ -1,0 +1,6 @@
+.vscode/
+out/
+repos/
+__pycache__/
+tasks.txt
+repos.txt
